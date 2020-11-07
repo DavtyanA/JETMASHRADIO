@@ -18,7 +18,7 @@ namespace JETMASHRADIO
             InitializeComponent();
             this.BackgroundImage = Properties.Resources.JetMashBackground;
             this.BackgroundImageLayout = ImageLayout.Stretch;
-            this.Icon = Properties.Resources.jetmashicon;//@"D:\Картиночки\jetmashradio.ico"
+            this.Icon = Properties.Resources.jetmashicon;//@"D:\Картиночки\jetmashradio.ico"ssssssssssssssss
         }
 
         private void characterModderButton_Click(object sender, EventArgs e)
