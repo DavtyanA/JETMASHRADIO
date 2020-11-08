@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace JETMASHRADIO
 {
-    public partial class Form1 : Form
+    public partial class InstallFilesForm : Form
     {
-        public Form1()
+        public InstallFilesForm()
         {
             InitializeComponent();
             Text = "JET MASH RADIOOOOOOOOOOOOOOOOOOOOOOO";
@@ -41,7 +41,7 @@ namespace JETMASHRADIO
             }
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void InstallFilesForm_Load(object sender, EventArgs e)
         {
 
         }

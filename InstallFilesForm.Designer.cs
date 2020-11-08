@@ -1,6 +1,6 @@
 ﻿namespace JETMASHRADIO
 {
-    partial class Form1
+    partial class InstallFilesForm
     {
         /// <summary>
         ///  Required designer variable.
@@ -81,7 +81,7 @@
             // 
             this.folderBrowserDialog.Description = "Выбери корневую папку игры";
             // 
-            // Form1
+            // InstallFilesForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -90,9 +90,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "InstallFilesForm";
             this.Text = "JET MASH RADIO";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Load += new System.EventHandler(this.InstallFilesForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

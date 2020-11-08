@@ -23,7 +23,7 @@ namespace JETMASHRADIO
 
         private void characterModderButton_Click(object sender, EventArgs e)
         {
-            new Form1().Show();
+            new InstallFilesForm().Show();
         }
 
         private void preferencesButton_Click(object sender, EventArgs e)
