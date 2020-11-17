@@ -28,7 +28,7 @@ namespace JETMASHRADIO
 
         private void preferencesButton_Click(object sender, EventArgs e)
         {
-            //(new PreferencesForm()).Show();
+            new TextureModderForm().Show();
         }
 
         private void MashupLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
